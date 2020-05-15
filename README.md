@@ -1,2 +1,1 @@
-# TPSampling
-Trie based Pattern Sampling
+# TPSampling : Trie based Pattern Sampling
