@@ -1,6 +1,6 @@
 <h1>TPSampling : Trie based Pattern Sampling</h1>
 
-#Result of a running exemple of TPSampling on "adult" dataset.
+# Result of a running exemple of TPSampling on "adult" dataset.
 
     ====== Thanks for using TPSampling ======
     Dataset : adult
