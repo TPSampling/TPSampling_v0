@@ -1,4 +1,4 @@
-<h1>TPSampling : Trie based Pattern Sampling<\h1>
+<h1>TPSampling : Trie based Pattern Sampling</h1>
 
 #Result of a running exemple of TPSampling on "adult" dataset.
 
