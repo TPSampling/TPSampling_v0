@@ -226,7 +226,7 @@ if __name__ == "__main__":
     
     print("Dataset :",dataset)
     print("Interestingness measure :",measure)
-    print("Norm constraints :","["+str(m)+".."+str(M)+"]")
+    print("Norm constraint :","["+str(m)+".."+str(M)+"]")
     if measure=="Decay":
         print("Exponential decay : alpha="+str(alpha))
     dataset = "Datasets/"+dataset+".num"
