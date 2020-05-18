@@ -5,7 +5,7 @@
     ====== Thanks for using TPSampling ======
     Dataset : adult
     Interestingness measure : Freq
-    Norm constraints : [1..6]
+    Norm constraint : [1..6]
     Total order relation : Frequency order
     Preprocessing time : 3.53125 s
     Number of nodes in the trie : 26365
