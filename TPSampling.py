@@ -147,7 +147,7 @@ def addTrans(root, trans, m, M, tabCnk, nbNode):
     return nbNode
     
 
-def TOM(dataset, m, Ml, ordre):
+def TPSpace(dataset, m, Ml, ordre):
     nbNode=0
     litterals, maxL = [], 0
     if ordre==0:
@@ -236,7 +236,7 @@ if __name__ == "__main__":
         print("Total order relation :", "Lexicographic order")
         
     beginTime =time.process_time()
-    root, nbNode = TOM(dataset, m, M, ordre)
+    root, nbNode = TPSpace(dataset, m, M, ordre)
     weightedNorm = []
     w=0
     for norme in root.weight:
