@@ -1,4 +1,4 @@
-<h1>TPSampling : Trie based Pattern Sampling</h1>
+<h1>Trie-based Output Space Itemset Sampling</h1>
 
 <h3> Result of a running exemple of TPSampling on "adult" dataset.</h3>
 
